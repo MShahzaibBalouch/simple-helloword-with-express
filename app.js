@@ -4,7 +4,7 @@ const port = 8080;
 
 
 app.get('/', (req, res) => {
-  res.send('Hello World with Express! Awo ghar chalay');
+  res.send('Hello World with Express!');
 });
 
 
